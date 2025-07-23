@@ -54,5 +54,5 @@ Note: Replace hard-coded video ID in the code with your own video ID
 <img width="700" height="450" alt="Screenshot 2025-07-23 at 6 15 00_PM" src="https://github.com/user-attachments/assets/0273318b-2846-4f19-92cd-1d01c785a4e9" />
 
 ## notes.md
-- Rough notes I took while learning about AI agents
+- Rough notes I took while watching the tutorial
 
