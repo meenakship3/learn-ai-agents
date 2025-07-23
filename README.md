@@ -1,6 +1,6 @@
 # Social Media Content Generator
 
-An AI agent that generates social media content from YouTube video transcripts using Google's Gemini AI model. Tutorial used - [](https://www.youtube.com/watch?v=zOFxHmjIhvY)
+An AI agent that generates social media content from YouTube video transcripts using Google's Gemini AI model. Tutorial used - [Building Your First AI Agent in Python - A Crash Course](https://www.youtube.com/watch?v=zOFxHmjIhvY)
 
 ## Features
 
@@ -43,14 +43,14 @@ social-media-agent/
    ```bash
    export GEMINI_API_KEY="your_api_key_here"
    ```
-4. Run the agent:
-
-```bash
-python3 social-media-agent/social_media_agent.py
-```
+3. Run the agent:
+   ```bash
+   python3 social-media-agent/social_media_agent.py
+   ```
 Note: Replace hard-coded video ID in the code with your own video ID
 
 
 ## Sample Output
+<img width="700" height="450" alt="Screenshot 2025-07-23 at 6 15 00_PM" src="https://github.com/user-attachments/assets/0273318b-2846-4f19-92cd-1d01c785a4e9" />
 
 
