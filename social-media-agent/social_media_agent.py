@@ -73,7 +73,7 @@ def get_transcript(video_id: str, languages: list = None) -> str:
 
 # Main function
 async def main():
-    video_id = "OZ5OZZZ2cvk"
+    video_id = "OZ5OZZZ2cvk" # Replace with your own video ID
     transcript = get_transcript(video_id)
 
     platforms = ["LinkedIn", "Instagram"]
